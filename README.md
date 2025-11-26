@@ -11,9 +11,13 @@ A small command-line Java program to manage a bookstore: add/search/purchase/dis
 ## Project structure
 .
 ├─ src/
+
 │ └─ BookShopDriver.java ← contains all classes in single file (you can split into files)
+
 ├─ .gitignore
+
 ├─ README.md
+
 └─ LICENSE
 
 
